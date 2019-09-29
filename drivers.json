@@ -8,7 +8,7 @@
                 "browserName": "Chrome",
                 "maxDuration": "1200",
                 "version": "72",
-                "platform": "Windows 10",
++(master)
                 "screenResolution": "1920x1080",
                 "record_video": "true"
             }
