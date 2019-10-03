@@ -1,7 +1,7 @@
 first line
 second line
 third line
-fourth line
++(master)
 fifth line
 sixth line
 seventh line
